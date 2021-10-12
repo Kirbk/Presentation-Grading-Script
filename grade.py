@@ -6,7 +6,7 @@
 #                                                     #
 #                    Written By:                      #
 #              Caleb Kirby in Fall 2021               #
-#                  github.com/kirbk                   #
+#                   github @ kirbk                    #
 #                                                     #
 #            Please review README.md for              #
 #       possible required edits to this script.       #

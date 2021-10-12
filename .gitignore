@@ -1,0 +1,7 @@
+*/
+*.log
+*.csv
+
+submissions/*
+!submissions/
+!submissions/.gitignore
